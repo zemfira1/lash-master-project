@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/lash-master-project/static/css/main.7acaea2f.css",
-    "main.js": "/lash-master-project/static/js/main.07d3183d.js",
+    "main.js": "/lash-master-project/static/js/main.cbc8644f.js",
     "index.html": "/lash-master-project/index.html",
-    "main.7acaea2f.css.map": "/lash-master-project/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/lash-master-project/static/js/main.07d3183d.js.map"
+    "main.cbc8644f.js.map": "/lash-master-project/static/js/main.cbc8644f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.cbc8644f.js"
   ]
 }
