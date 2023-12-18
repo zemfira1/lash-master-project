@@ -1,6 +1,7 @@
 import { AboutMe } from 'components/AboutMe/AboutMe';
 import { Care } from 'components/Care';
 import { Menu } from 'components/Menu';
+import { Portfolio } from 'components/Portfolio';
 import { Promotion1 } from 'components/Promotion1';
 import { Promotion2 } from 'components/Promotion2';
 import { Reasons } from 'components/Reasons';
@@ -15,6 +16,7 @@ export const App = () => {
         <AboutMe />
         <Reasons />
         <Promotion1 />
+        <Portfolio />
         <Care />
         <Promotion2 />
       </main>
