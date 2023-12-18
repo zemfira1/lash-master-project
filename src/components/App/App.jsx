@@ -1,4 +1,5 @@
 import { AboutMe } from 'components/AboutMe/AboutMe';
+import { Care } from 'components/Care';
 import { Menu } from 'components/Menu';
 import { Promotion1 } from 'components/Promotion1';
 import { Promotion2 } from 'components/Promotion2';
@@ -14,6 +15,7 @@ export const App = () => {
         <AboutMe />
         <Reasons />
         <Promotion1 />
+        <Care />
         <Promotion2 />
       </main>
       <footer></footer>
