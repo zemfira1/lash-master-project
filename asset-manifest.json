@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/lash-master-project/static/js/main.d968e12c.js",
+    "main.js": "/lash-master-project/static/js/main.c371b39a.js",
     "static/media/promotion2.png": "/lash-master-project/static/media/promotion2.58cc6eeeefddc1521d47.png",
     "static/media/two-faces.png": "/lash-master-project/static/media/two-faces.fa945fd98b63d23d91de.png",
     "static/media/promotion1.png": "/lash-master-project/static/media/promotion1.8c5bf2611353a928431d.png",
     "static/media/photo.png": "/lash-master-project/static/media/photo.07108ef725515f6de688.png",
     "static/media/symbol-defs.svg": "/lash-master-project/static/media/symbol-defs.055d03f53b1deea6736371367d397c81.svg",
     "index.html": "/lash-master-project/index.html",
-    "main.d968e12c.js.map": "/lash-master-project/static/js/main.d968e12c.js.map"
+    "main.c371b39a.js.map": "/lash-master-project/static/js/main.c371b39a.js.map"
   },
   "entrypoints": [
-    "static/js/main.d968e12c.js"
+    "static/js/main.c371b39a.js"
   ]
 }
