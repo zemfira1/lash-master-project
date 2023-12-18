@@ -29,6 +29,12 @@ export const GlobalStyles = css`
   p {
     margin: 0;
   }
+  h2 {
+    color: ${theme.colors.grey1};
+    font-size: ${theme.fontSizes.xxl};
+    font-weight: ${theme.fontWeight.medium};
+    line-height: ${theme.spacing(11)};
+  }
 
   ul,
   ol {
@@ -44,26 +50,23 @@ export const GlobalStyles = css`
   }
 
   button {
-    padding: 0;
+    padding: ${theme.spacing(3)} ${theme.spacing(8)};
     border: none;
     font: inherit;
     font-size: ${theme.fontSizes.large};
     font-weight: ${theme.fontWeight.semiBold};
+    line-height: ${theme.spacing(9)};
     color: ${theme.colors.grey2};
     background-color: ${theme.colors.white};
     cursor: pointer;
     border-radius: ${theme.spacing(6)};
-    box-shadow: 0px 2px 4px -1px ${theme.colors.mainbackground},
-      0px 4px 5px 0px ${theme.colors.mainbackground},
-      0px 1px 10px 0px ${theme.colors.mainbackground};
+    box-shadow: 0px 0px 18px 0px ${theme.colors.white};
 
     transition: box-shadow 200ms linear;
 
     &:hover,
     :focus {
-      box-shadow: 0px 2px 4px -1px ${theme.colors.mainbackground},
-        0px 4px 5px 0px ${theme.colors.mainbackground},
-        0px 1px 18px 0px ${theme.colors.mainbackground};
+      box-shadow: 0px 0px 22px 0px ${theme.colors.white};
     }
   }
 

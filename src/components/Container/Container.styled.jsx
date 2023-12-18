@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
 import { theme } from 'styles';
 
-export const Wrapper = styled.section`
+export const Wrapper = styled.div`
   width: 100%;
   margin-inline: auto;
   padding-inline: auto;
