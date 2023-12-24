@@ -27,7 +27,7 @@ export const PromotionInformation = () => {
       </svg>
       <Title>All {month} 20% discount on the first extension</Title>
       <button type="button">
-        <a href="tel:+1401111111">Book Now</a>
+        <a href="tel:+54011111111">Book Now</a>
       </button>
     </InfoArea>
   );

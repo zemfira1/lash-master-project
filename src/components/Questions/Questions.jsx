@@ -1,5 +1,11 @@
 import { Container } from 'components/Container';
-import { Icon, QuestionsArea, Title, List } from './Questions.styled';
+import {
+  Icon,
+  QuestionsArea,
+  Title,
+  List,
+  Attention,
+} from './Questions.styled';
 import sprite from '../../images/symbol-defs.svg';
 import questions from '../../resources/questions.json';
 import { nanoid } from 'nanoid';
@@ -11,6 +17,7 @@ export const Questions = () => {
       <Container>
         <QuestionsArea>
           <Title>Your questions about eyelashes:</Title>
+          <Attention>click on the question to get the answer</Attention>
           {questions.length > 0 && (
             <List>
               {questions.map(item => (

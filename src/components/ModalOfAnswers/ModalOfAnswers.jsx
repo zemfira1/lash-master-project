@@ -8,8 +8,6 @@ import {
 } from './ModalOfAnswers.styled';
 
 export const ModalOfAnswers = ({ toggleModal, question, answer }) => {
-  console.log(question);
-
   return (
     <Info>
       <ClouseButton onClick={() => toggleModal()}>

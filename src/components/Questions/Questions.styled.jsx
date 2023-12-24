@@ -17,6 +17,12 @@ export const QuestionsArea = styled.div`
 export const Title = styled.h2`
   font-size: ${theme.spacing(8.5)};
   color: ${theme.colors.white};
+  margin-bottom: ${theme.spacing(1)};
+`;
+
+export const Attention = styled.p`
+  font-size: ${theme.fontSizes.little};
+  color: ${theme.colors.white};
   margin-bottom: ${theme.spacing(12)};
 `;
 
