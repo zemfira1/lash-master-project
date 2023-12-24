@@ -9,7 +9,7 @@ export const PortfolioArea = styled.div`
   padding-bottom: ${theme.spacing(22)};
   border: none;
   border-radius: ${theme.spacing(7.5)};
-  background-color: ${theme.colors.grey1};
+  background-color: ${theme.colors.backgroundOfBlock9};
   margin-bottom: ${theme.spacing(6)};
   position: relative;
 `;

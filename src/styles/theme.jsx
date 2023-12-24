@@ -15,6 +15,7 @@ export const theme = Object.freeze({
     backgroundOfBlock6: '#7B85E2',
     backgroundOfBlock7: '#46FFD3',
     backgroundOfBlock8: '#FF8777',
+    backgroundOfBlock9: '#171717',
   },
   fontSizes: {
     little: '10px',

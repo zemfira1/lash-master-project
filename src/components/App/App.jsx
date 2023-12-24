@@ -4,6 +4,7 @@ import { Menu } from 'components/Menu';
 import { Portfolio } from 'components/Portfolio';
 import { Promotion1 } from 'components/Promotion1';
 import { Promotion2 } from 'components/Promotion2';
+import { Questions } from 'components/Questions';
 import { Reasons } from 'components/Reasons';
 import { Welcome } from 'components/Welcome';
 
@@ -19,6 +20,7 @@ export const App = () => {
         <Portfolio />
         <Care />
         <Promotion2 />
+        <Questions />
       </main>
       <footer></footer>
     </>

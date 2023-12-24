@@ -34,7 +34,7 @@ export const Info = styled.div`
   height: auto;
   padding: ${theme.spacing(18)} ${theme.spacing(8)};
   padding-right: ${theme.spacing(5.5)};
-  background-color: ${theme.colors.grey1};
+  background-color: ${theme.colors.backgroundOfBlock9};
   border: none;
   border-radius: ${theme.spacing(7.5)};
 `;
