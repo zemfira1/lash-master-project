@@ -1,5 +1,5 @@
 import { Container } from 'components/Container';
-import { PromotionWrapper } from './Promotion2.styled';
+import { PromotionWrapper, Background } from './Promotion2.styled';
 import { PromotionInformation } from 'components/PromotionInformation';
 
 export const Promotion2 = () => {
@@ -7,7 +7,9 @@ export const Promotion2 = () => {
     <section>
       <Container>
         <PromotionWrapper>
-          <PromotionInformation />
+          <Background>
+            <PromotionInformation />
+          </Background>
         </PromotionWrapper>
       </Container>
     </section>

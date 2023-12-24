@@ -11,7 +11,7 @@ export const CareArea = styled.div`
   background-color: ${theme.colors.backgroundOfBlock1};
   border: none;
   border-radius: ${theme.spacing(7.5)};
-  margin-bottom: ${theme.spacing(20)};
+  margin-bottom: ${theme.spacing(6)};
 `;
 
 export const Title = styled.h2`

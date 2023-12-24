@@ -12,7 +12,7 @@ export const Substrate = styled.div`
   position: relative;
   display: flex;
   flex-direction: column;
-  margin-bottom: ${theme.spacing(20)};
+  margin-bottom: ${theme.spacing(6)};
 `;
 
 export const LogoTop = styled.svg`
