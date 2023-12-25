@@ -7,6 +7,7 @@ export const theme = Object.freeze({
     white: '#FFFFFF',
     mainbackground: '#E2DDD9',
     menuBackground: 'rgba(0, 0, 0, 0.85)',
+    modalWrapper: 'rgba(0, 0, 0, 0.2)',
     backgroundOfBlock1: '#CEC4C5',
     backgroundOfBlock2: '#B29596',
     backgroundOfBlock3: '#8B8398',

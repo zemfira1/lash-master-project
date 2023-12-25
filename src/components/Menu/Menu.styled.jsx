@@ -17,3 +17,17 @@ export const HeaderNav = styled.nav`
   background-color: ${theme.colors.menuBackground};
   margin-bottom: ${theme.spacing(6)};
 `;
+
+export const ButtonEl = styled.button`
+  padding: 0;
+  box-shadow: 0 0 0 0;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  :hover,
+  :focus {
+    box-shadow: 0 0 0 0;
+  }
+`;

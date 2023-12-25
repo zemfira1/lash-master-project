@@ -10,7 +10,7 @@ export const Overlay = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: ${theme.colors.transparencyGrey50};
+  background-color: ${theme.colors.modalWrapper};
   z-index: 1200;
 `;
 

@@ -11,7 +11,7 @@ export const Contacts = () => {
           <Title>Contact me</Title>
           <List>
             <li>
-              <ButtonEl>
+              <ButtonEl type="button">
                 <Link href="https://www.instagram.com">
                   <IconArea>
                     <svg width={24} height={24}>

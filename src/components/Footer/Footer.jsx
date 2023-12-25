@@ -28,7 +28,7 @@ export const Footer = () => {
               ))}
             </List>
           )}
-          <ButtonEl>
+          <ButtonEl type="button">
             <a href="tel:+54011111111">Booking</a>
           </ButtonEl>
           <Copyright>

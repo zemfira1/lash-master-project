@@ -10,7 +10,7 @@ import {
 export const ModalOfAnswers = ({ toggleModal, question, answer }) => {
   return (
     <Info>
-      <ClouseButton onClick={() => toggleModal()}>
+      <ClouseButton type="button" onClick={() => toggleModal()}>
         <SvgClouse width={20} height={20}>
           <use href={sprite + '#icon-x'}></use>
         </SvgClouse>
