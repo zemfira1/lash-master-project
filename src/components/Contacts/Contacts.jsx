@@ -5,7 +5,7 @@ import sprite from '../../images/symbol-defs.svg';
 
 export const Contacts = () => {
   return (
-    <section>
+    <section id="7">
       <Container>
         <SubstrateWithLogo>
           <Title>Contact me</Title>

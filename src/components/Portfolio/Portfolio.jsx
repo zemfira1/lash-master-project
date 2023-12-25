@@ -14,7 +14,7 @@ import sprite from '../../images/symbol-defs.svg';
 
 export const Portfolio = () => {
   return (
-    <section>
+    <section id="3">
       <Container>
         <PortfolioArea>
           <Title>My Portfolio</Title>

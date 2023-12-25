@@ -6,7 +6,7 @@ import { SubstrateWithLogo } from 'components/SubstrateWithLogo';
 
 export const Reasons = () => {
   return (
-    <section>
+    <section id="2">
       <Container>
         <SubstrateWithLogo>
           <Title>You need eyelashes because it is...</Title>

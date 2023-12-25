@@ -5,7 +5,7 @@ import { nanoid } from 'nanoid';
 
 export const AboutMe = () => {
   return (
-    <section>
+    <section id="1">
       <Container>
         <AboutArea>
           <Title>About Me</Title>

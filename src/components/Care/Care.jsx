@@ -7,7 +7,7 @@ import { RxDotFilled } from 'react-icons/rx';
 
 export const Care = () => {
   return (
-    <section>
+    <section id="4">
       <Container>
         <CareArea>
           <svg width={40} height={40}>

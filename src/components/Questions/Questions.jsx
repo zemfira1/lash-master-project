@@ -13,7 +13,7 @@ import { Answer } from 'components/Answer';
 
 export const Questions = () => {
   return (
-    <section>
+    <section id="5">
       <Container>
         <QuestionsArea>
           <Title>Your questions about eyelashes:</Title>

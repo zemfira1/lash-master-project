@@ -1,6 +1,7 @@
 import { AboutMe } from 'components/AboutMe/AboutMe';
 import { Care } from 'components/Care';
 import { Contacts } from 'components/Contacts';
+import { Footer } from 'components/Footer';
 import { Menu } from 'components/Menu';
 import { Portfolio } from 'components/Portfolio';
 import { Price } from 'components/Price';
@@ -26,7 +27,7 @@ export const App = () => {
         <Price />
         <Contacts />
       </main>
-      <footer></footer>
+      <Footer />
     </>
   );
 };
