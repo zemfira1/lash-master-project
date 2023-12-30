@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/lash-master-project/static/js/main.00c1ffaa.js",
+    "main.js": "/lash-master-project/static/js/main.61e1e5c2.js",
     "static/media/promotion2.png": "/lash-master-project/static/media/promotion2.58cc6eeeefddc1521d47.png",
     "static/media/two-faces.png": "/lash-master-project/static/media/two-faces.fa945fd98b63d23d91de.png",
     "static/media/promotion1.png": "/lash-master-project/static/media/promotion1.8c5bf2611353a928431d.png",
@@ -10,9 +10,9 @@
     "static/media/photo.png": "/lash-master-project/static/media/photo.07108ef725515f6de688.png",
     "static/media/symbol-defs.svg": "/lash-master-project/static/media/symbol-defs.bd6afe64009d481833631a5aba1a14a4.svg",
     "index.html": "/lash-master-project/index.html",
-    "main.00c1ffaa.js.map": "/lash-master-project/static/js/main.00c1ffaa.js.map"
+    "main.61e1e5c2.js.map": "/lash-master-project/static/js/main.61e1e5c2.js.map"
   },
   "entrypoints": [
-    "static/js/main.00c1ffaa.js"
+    "static/js/main.61e1e5c2.js"
   ]
 }
