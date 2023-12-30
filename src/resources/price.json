@@ -1,0 +1,115 @@
+[
+  {
+    "procedure": "Classic Extension",
+    "popularity": "",
+    "type": "Full Set",
+    "weeks": "",
+    "description": [
+      "The average time for a new full extension is 1:10 - 1:30 hours.",
+      "The final extension time depends on the density of native eyelashes.",
+      "After 4 weeks we do a complete overgrowth."
+    ],
+    "price": 75
+  },
+  {
+    "procedure": "Classic Extension",
+    "popularity": "",
+    "type": " Refill",
+    "weeks": "In 2 Weeks",
+    "description": [
+      "The final extension time depends on the density of native eyelashes.",
+      "After 4 weeks we do a complete overgrowth/ new full set."
+    ],
+    "price": 40
+  },
+  {
+    "procedure": "Classic Extension",
+    "popularity": "",
+    "type": "Refill",
+    "weeks": "In 3 Weeks",
+    "description": [
+      "The final extension time depends on the density of native eyelashes.",
+      "After 4 weeks we do a complete overgrowth/ new full set."
+    ],
+    "price": 60
+  },
+  {
+    "procedure": "Hybrid Volume Extension",
+    "popularity": "",
+    "type": "Full Set",
+    "weeks": "",
+    "description": [
+      "The average time for a new full extension is 1:40 - 2:20 hours.",
+      "The final extension time depends on the density of native eyelashes.",
+      "After 4 weeks we do a complete overgrowth."
+    ],
+    "price": 95
+  },
+  {
+    "procedure": "Hybrid Volume Extension",
+    "popularity": "",
+    "type": " Refill",
+    "weeks": "In 2 Weeks",
+    "description": [
+      "The final extension time depends on the density of native eyelashes.",
+      "After 4 weeks we do a complete overgrowth/ new full set."
+    ],
+    "price": 50
+  },
+  {
+    "procedure": "Hybrid Volume Extension",
+    "popularity": "",
+    "type": "Refill",
+    "weeks": "In 3 Weeks",
+    "description": [
+      "The final extension time depends on the density of native eyelashes.",
+      "After 4 weeks we do a complete overgrowth/ new full set."
+    ],
+    "price": 75
+  },
+  {
+    "procedure": "Wet Effect Extension",
+    "popularity": "Trendy",
+    "type": "Full Set",
+    "weeks": "",
+    "description": [
+      "The average time for a new full extension is 1:30 - 1:50 hours.",
+      "The final extension time depends on the density of native eyelashes.",
+      "After 4 weeks we do a complete overgrowth."
+    ],
+    "price": 90
+  },
+  {
+    "procedure": "Wet Effect Extension",
+    "popularity": "Trendy",
+    "type": " Refill",
+    "weeks": "In 2 Weeks",
+    "description": [
+      "The final extension time depends on the density of native eyelashes.",
+      "After 4 weeks we do a complete overgrowth/ new full set."
+    ],
+    "price": 50
+  },
+  {
+    "procedure": "Wet Effect Extension",
+    "popularity": "Trendy",
+    "type": "Refill",
+    "weeks": "In 3 Weeks",
+    "description": [
+      "The final extension time depends on the density of native eyelashes.",
+      "After 4 weeks we do a complete overgrowth/ new full set."
+    ],
+    "price": 70
+  },
+  {
+    "procedure": "Removal Of Eyelashes",
+    "popularity": "",
+    "type": "15 min",
+    "weeks": "",
+    "description": [
+      "You can book a time just to have your lashes removed. ",
+      "Removing eyelashes with a special tool will keep your natural eyelashes intact."
+    ],
+    "price": 15
+  }
+]

@@ -32,7 +32,6 @@ export const Info = styled.div`
   max-width: 100%;
   height: auto;
   padding: ${theme.spacing(18)} ${theme.spacing(8)};
-  padding-right: ${theme.spacing(5.5)};
   background-color: ${theme.colors.backgroundOfBlock9};
   border: none;
   border-radius: ${theme.spacing(7.5)};

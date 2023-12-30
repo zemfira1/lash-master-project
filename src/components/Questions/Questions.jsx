@@ -18,7 +18,7 @@ export const Questions = () => {
         <QuestionsArea>
           <Title>Your questions about eyelashes:</Title>
           <Attention>click on the question to get the answer</Attention>
-          {questions.length > 0 && (
+          {questions && questions.length > 0 && (
             <List>
               {questions.map(item => (
                 <Answer

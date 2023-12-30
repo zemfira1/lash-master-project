@@ -1,14 +1,15 @@
 import { Container } from 'components/Container';
 import { SubstrateWithLogo } from 'components/SubstrateWithLogo';
-import { ButtonEl, List, Title, Link, IconArea, Text } from './Contacts.styled';
+import { ButtonEl, List, Link, IconArea, Text } from './Contacts.styled';
 import sprite from '../../images/symbol-defs.svg';
+import { Title } from 'components/Title';
 
 export const Contacts = () => {
   return (
     <section id="7">
       <Container>
         <SubstrateWithLogo>
-          <Title>Contact me</Title>
+          <Title title="Contact me" />
           <List>
             <li>
               <ButtonEl type="button">
